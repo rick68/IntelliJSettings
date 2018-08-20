@@ -3,6 +3,7 @@
     <option name="FONT_SIZE" value="15" />
     <option name="FONT_FAMILY" value="Hack" />
     <option name="FONT_SCALE" value="1.25" />
+    <option name="SECONDARY_FONT_FAMILY" value="Noto Sans CJK TC Regular" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
