@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="patchelf_for_x11" description="PatchELF for X11" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/IdeaProjects/rust-test/patchelf_for_x11.sh" />
+      <option name="PARAMETERS" value="debug rust-test" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
