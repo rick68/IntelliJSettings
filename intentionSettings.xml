@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Rust/Show the result of macro expansion (cargo expand)" />
+  </component>
+</application>
