@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="rs" type="Android RenderScript" />
       <mapping pattern=",gitignore" type="PLAIN_TEXT" />
       <mapping pattern="main" type="Rust" />
+      <mapping ext="rs" type="Rust" />
     </extensionMap>
   </component>
 </application>
