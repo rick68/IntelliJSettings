@@ -3,8 +3,8 @@
     <extensionMap>
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
       <mapping pattern=",gitignore" type="PLAIN_TEXT" />
-      <mapping ext="rs" type="PLAIN_TEXT" />
       <mapping pattern="main" type="Rust" />
+      <mapping ext="rs" type="Rust" />
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
     </extensionMap>
   </component>
