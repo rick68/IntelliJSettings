@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project '17bot'" />
-    <option name="defaultScopeName" value="Project '17bot'" />
-    <option name="SEARCH_SCOPE" value="Project '17bot'" />
+    <option name="customScope" value="Project 'java_invoke_rust'" />
+    <option name="defaultScopeName" value="Project 'java_invoke_rust'" />
+    <option name="SEARCH_SCOPE" value="Project 'java_invoke_rust'" />
   </component>
 </application>
