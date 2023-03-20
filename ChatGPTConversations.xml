@@ -2,4 +2,7 @@
   <component name="ee.carlrobert.chatgpt.ide.conversations.ConversationsState">
     <option name="conversationsContainer" value="{&quot;conversationsMapping&quot;:{}}" />
   </component>
+  <component name="ee.carlrobert.codegpt.ide.conversations.ConversationsState">
+    <option name="conversationsContainer" value="{&quot;conversationsMapping&quot;:{}}" />
+  </component>
 </application>
